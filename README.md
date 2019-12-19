@@ -7,3 +7,5 @@ This repository applies Image Classification on the classic Dogs vs Cats Dataset
 * Image Classification from Scratch
 * Transfer Learning by Feature Extraction
 * Transfer Learning by Fine-Tuning
+
+The provided notebook can be run in Google Colaboratory
